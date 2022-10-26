@@ -1,2 +1,2 @@
-# Multiplication-Tables
+# Basic Arithmetics
 This is a Jupyter Notebook that explains the concept of multiplication in mathematics.
